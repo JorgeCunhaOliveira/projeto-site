@@ -14,3 +14,20 @@ main{
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.404);
 }
+h1{
+    font-size: 2em;
+}
+h2{
+    font-size: 1.5em;
+}
+.lado{
+    float: right;
+    padding: 5px;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    font-weight: bolder;
+}
